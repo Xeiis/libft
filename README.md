@@ -1,7 +1,12 @@
+# Libft
 Debut 23 Novembre 2015  
 Fin 13 Decembre 2015  
 Note : 116  
-Retry : 1  
+Retry : 1 
+
+Projet LIBFT @42
+
+Authors : dchristo
 
 	"+---------------------------------------+";
 	"|   _      _____ ____  ______ _______   |";
